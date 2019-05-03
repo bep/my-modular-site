@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Modular Hugo Site"
+theme = [
+    "github.com/bep/hugo-fresh"
+]
+
