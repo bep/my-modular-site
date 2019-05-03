@@ -5,3 +5,6 @@ theme = [
     "github.com/bep/hugo-fresh"
 ]
 
+disableKinds = [
+    "taxonomyTerm"
+]
