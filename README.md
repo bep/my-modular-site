@@ -22,3 +22,14 @@ go get -u
 
 ## Local development
 
+Add a replace directive:
+
+```bash
+replace github.com/bep/hugotestmods/mypartials => /Users/bep/sites/hugomod/hugotestmods/mypartials
+```
+
+
+TODOS:
+
+*  GOPROXY="https://proxy.golang.org"
+

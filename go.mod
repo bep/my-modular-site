@@ -7,3 +7,5 @@ require (
 	github.com/bep/hugotestmods/mypartials v1.0.2 // indirect
 	github.com/bep/hugotestmods/myshortcodes v1.0.0 // indirect
 )
+
+replace github.com/bep/hugotestmods/mypartials => /Users/bep/sites/hugomod/hugotestmods/mypartials
