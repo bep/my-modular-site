@@ -32,4 +32,4 @@ replace github.com/bep/hugotestmods/mypartials => /Users/bep/sites/hugomod/hugot
 TODOS:
 
 *  GOPROXY="https://proxy.golang.org" seems to break/delay GitHub updates? 
-
+* GO111MODULE=on 
