@@ -10,3 +10,7 @@ theme = [
 disableKinds = [
     "taxonomyTerm"
 ]
+
+
+[params]
+icon = "doc-sync"

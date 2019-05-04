@@ -1,5 +1,6 @@
 ---
-title: "My Page"
+title: "Second Page"
+weight: 2
 ---
 
 This is **content**.
