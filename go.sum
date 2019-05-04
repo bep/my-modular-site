@@ -1,2 +1,6 @@
 github.com/bep/hugo-fresh v1.0.1/go.mod h1:UJ5khYATP9RHLWgL/0b2JYcFZWdyLHnvj8wi0x/Y0fI=
+github.com/bep/hugotestmods v0.0.0-20190504082747-2e3c62b70b6a h1:uI0rEyYDMCvGOICyQiyMnep3VcB51ouoCeBUKebgK4w=
+github.com/bep/hugotestmods/myassets v1.0.0 h1:YyUem3/VtZa64Sa4tmWlnzdjpUB6dwkSPrxbH4ffRFA=
+github.com/bep/hugotestmods/myassets v1.0.0/go.mod h1:yMlFSL9pjn6K4otaMRzPv6YlaPqXee9/t05D2/HtfTY=
+github.com/bep/hugotestmods/myassets v1.0.2/go.mod h1:yMlFSL9pjn6K4otaMRzPv6YlaPqXee9/t05D2/HtfTY=
 github.com/bep/hugotestmods/myshortcodes v1.0.0/go.mod h1:nlhUeKgz07ejqueXmP5pUgRmgoO7SGqSlo4psw80muU=

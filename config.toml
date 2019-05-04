@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My Modular Hugo Site"
 theme = [
+    "github.com/bep/hugotestmods/myassets",
     "github.com/bep/hugotestmods/mypartials",
     "github.com/bep/hugotestmods/myshortcodes",
     "github.com/bep/hugo-fresh"
