@@ -1,3 +1,8 @@
 github.com/bep/hugo-fresh v1.0.1/go.mod h1:UJ5khYATP9RHLWgL/0b2JYcFZWdyLHnvj8wi0x/Y0fI=
+github.com/bep/hugotestmods v0.0.0-20190504085406-ca5c0f2dad18 h1:yyjFpylAAbshMRLzrg4qWACcxtjGKlDhOFueIcvRF9A=
+github.com/bep/hugotestmods/myassets v1.0.2/go.mod h1:yMlFSL9pjn6K4otaMRzPv6YlaPqXee9/t05D2/HtfTY=
+github.com/bep/hugotestmods/mypartials v1.0.2 h1:p+SrmATnLaPDZ8Ru8NqoF7ofz85LL9gQlaQ7j6XfaTk=
 github.com/bep/hugotestmods/mypartials v1.0.2/go.mod h1:+7NpgQU+Ba+TzSvKgyHnEyLt+sx82Sk2f5eCVIa4Tv4=
+github.com/bep/hugotestmods/mypartials v1.0.3 h1:9C1DTeq7A76yPW9zlvZBUUK9YmISVhZzZQ4IE3LQfzM=
+github.com/bep/hugotestmods/mypartials v1.0.3/go.mod h1:JmsXsEIvnw9848V7Si+BvtfhpMdZEZLc7HP6yhODDT4=
 github.com/bep/hugotestmods/myshortcodes v1.0.0/go.mod h1:nlhUeKgz07ejqueXmP5pUgRmgoO7SGqSlo4psw80muU=
