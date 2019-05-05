@@ -1,11 +1,25 @@
+
+
+theme = [
+    "github.com/bep/hugotestmods/mypartials",
+    "github.com/bep/hugotestmods/myshortcodes",
+    "github.com/bep/hugo-fresh",
+    #"github.com/jeblister/kube",
+    #"github.com/spf13/hyde",
+
+]
+
+# hugo mod get github.com/bep/hugotestmods/mypartials
+
+
+
+
+
+
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My Modular Hugo Site"
-theme = [
-    #"github.com/bep/hugotestmods/mypartials",
-    "github.com/bep/hugotestmods/myshortcodes",
-    "github.com/bep/hugo-fresh"
-]
+
 
 disableKinds = [
     "taxonomyTerm"
