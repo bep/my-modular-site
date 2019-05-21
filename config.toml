@@ -1,9 +1,10 @@
 
 
 theme = [
-    "github.com/bep/hugotestmods/mypartials",
+    #"github.com/bep/hugotestmods/mypartials",
     #"github.com/bep/hugotestmods/myassets",
-    "github.com/bep/hugotestmods/myshortcodes",
+    #"github.com/bep/hugotestmods/myshortcodes",
+    "github.com/bep/hugotestmods/myv2",
     #"github.com/bep/hugo-fresh",
     #"github.com/jeblister/kube",
     #"github.com/spf13/hyde",
