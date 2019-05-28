@@ -4,6 +4,8 @@ github.com/bep/hugotestmods v0.0.0-20190521092204-267c1b1825df h1:C5KhPg9xh1aGnS
 github.com/bep/hugotestmods/myassets v1.0.3/go.mod h1:yMlFSL9pjn6K4otaMRzPv6YlaPqXee9/t05D2/HtfTY=
 github.com/bep/hugotestmods/mypartials v1.0.7 h1:bgCfX1+KeccOLKURhYjz0Zltd0TbqFNMfoSfoxfnmHo=
 github.com/bep/hugotestmods/mypartials v1.0.7/go.mod h1:QcrnlvaPq4q8ipJHVEOHaPbHkkusDpOOotAZheabfQ4=
+github.com/bep/hugotestmods/myshortcodes v1.0.1 h1:ydz7DbZtU0ef8fNd5fzWTX9PdYagz/nAiDMeUrklyA4=
+github.com/bep/hugotestmods/myshortcodes v1.0.1/go.mod h1:nlhUeKgz07ejqueXmP5pUgRmgoO7SGqSlo4psw80muU=
 github.com/bep/hugotestmods/myv2 v1.0.0/go.mod h1:ermD/5I+aeZG7Fndd11OsQkqr3jhelVyF5H0m5c4ki0=
 github.com/bep/hugotestmods/myv2/v2 v2.0.0 h1:Ghcfd4NTOKV3qS52M9t0GfIP1ibgcr0OQ64lPsQKOtU=
 github.com/bep/hugotestmods/myv2/v2 v2.0.0/go.mod h1:phe5kHqmpnwWKSpgxHd8qA1LxJbpMWlEuVaxPA6wRXc=
