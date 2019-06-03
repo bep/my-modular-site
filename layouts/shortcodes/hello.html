@@ -1,1 +1,5 @@
 Base Hello
+
+
+{{ $img := resources.Get "images/sunset.jpg" }}
+<img src="{{ $img.RelPermalink }}">
