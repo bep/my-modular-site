@@ -1,3 +1,5 @@
+github.com/StefMa/hugo-fresh v0.0.0-20190606101730-ddc1a2f37404 h1:w7dY3fG/0HWEP7C0Z4/SaBYrpRY13AvIKnDVHBOkr0Y=
+github.com/StefMa/hugo-fresh v0.0.0-20190606101730-ddc1a2f37404/go.mod h1:0kyrjS5vdFJ47D7bPs6JwXTkctiMaQbToeBaOQsw1Tw=
 github.com/bep/hugo-fresh v1.0.1 h1:xmvkQZJGNlaMg1JNpZjVwpG7ZfikSDvy/pnLAhk45+I=
 github.com/bep/hugo-fresh v1.0.1/go.mod h1:UJ5khYATP9RHLWgL/0b2JYcFZWdyLHnvj8wi0x/Y0fI=
 github.com/bep/hugotestmods v0.0.0-20190521092204-267c1b1825df h1:C5KhPg9xh1aGnSuItoqCFHVaAW3UrErfkZdQoO6uURo=

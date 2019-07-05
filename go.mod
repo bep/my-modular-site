@@ -3,6 +3,7 @@ module github.com/bep/my-modular-site
 go 1.12
 
 require (
+	github.com/StefMa/hugo-fresh v0.0.0-20190606101730-ddc1a2f37404 // indirect
 	github.com/bep/hugo-fresh v1.0.1 // indirect
 	github.com/bep/hugotestmods/myassets v1.0.4 // indirect
 	github.com/bep/hugotestmods/mymounts v1.0.0 // indirect
