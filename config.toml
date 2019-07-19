@@ -25,4 +25,5 @@ target="data/datakey"
 path="github.com/bep/hugotestmods/mypartials"
 [[module.imports]]
 path="github.com/bep/hugo-fresh"
-
+[[module.imports]]
+path="in-themesdir"
