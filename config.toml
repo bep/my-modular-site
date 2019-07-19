@@ -24,6 +24,6 @@ target="data/datakey"
 [[module.imports]]
 path="github.com/bep/hugotestmods/mypartials"
 [[module.imports]]
-path="github.com/bep/hugo-fresh"
+path="github.com/spf13/hyde"
 [[module.imports]]
 path="in-themesdir"
