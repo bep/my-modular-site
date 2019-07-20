@@ -2,4 +2,4 @@ Base Hello
 
 
 {{ $img := resources.Get "images/sunset.jpg" }}
-<img src="{{ $img.RelPermalink }}">
+{{ if $img }}<img src="{{ $img.RelPermalink }}">{{ end }}

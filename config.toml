@@ -11,19 +11,25 @@ icon = "doc-sync"
 
 [module]
 [[module.mounts]]
-source="content"
-target="content"
+    source="content"
+    target="content"
 [[module.imports]]
-path="github.com/bep/hugotestmods/mymounts"
+    path="github.com/bep/hugotestmods/mymounts"
+    disabled=false
 [[module.imports.mounts]]
-source="myassets/subfolder"
-target="assets/images"
+    source="myassets/subfolder"
+    target="assets/images"
 [[module.imports.mounts]]
-source="mydata/subfolder"
-target="data/datakey"
+    source="mydata/subfolder"
+    target="data/datakey"
 [[module.imports]]
-path="github.com/bep/hugotestmods/mypartials"
+    path="github.com/bep/hugotestmods/mypartials"
+    disabled=false
 [[module.imports]]
-path="github.com/spf13/hyde"
+    path="github.com/spf13/hyde"
+    disabled=true
 [[module.imports]]
-path="in-themesdir"
+    path="github.com/bep/hugo-fresh"
+    disabled=false   
+[[module.imports]]
+    path="in-themesdir"
