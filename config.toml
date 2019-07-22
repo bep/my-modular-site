@@ -6,6 +6,12 @@ disableKinds = [
     "taxonomyTerm"
 ]
 
+[caches]
+[caches.modules]
+dir = ":cacheDir/modules"
+maxAge = "2m"
+
+
 [params]
 icon = "doc-sync"
 
