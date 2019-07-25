@@ -8,6 +8,8 @@ github.com/bep/hugotestmods/mymounts v1.2.0/go.mod h1:eEF3JU4Kta3g3O2mxuHs4fVq0q
 github.com/bep/hugotestmods/mypartials v1.0.4/go.mod h1:RQyQ50+3LFFEbwrZkXEiJ1oqu4tXpZeIvHbYZOjdZG4=
 github.com/bep/hugotestmods/mypartials v1.0.5 h1:VJy6Tg8qdN5pMb3jGBB+R/osWtXlCRf5Cgn2GUpEFkc=
 github.com/bep/hugotestmods/mypartials v1.0.5/go.mod h1:RQyQ50+3LFFEbwrZkXEiJ1oqu4tXpZeIvHbYZOjdZG4=
+github.com/bep/hugotestmods/mypartials v1.0.6 h1:xut7b96skI9K9vQp/dVRd2cdwCZZJDEeWdA7/EU17cQ=
+github.com/bep/hugotestmods/mypartials v1.0.6/go.mod h1:RQyQ50+3LFFEbwrZkXEiJ1oqu4tXpZeIvHbYZOjdZG4=
 github.com/bep/hugotestmods/mypartials v1.0.7 h1:bgCfX1+KeccOLKURhYjz0Zltd0TbqFNMfoSfoxfnmHo=
 github.com/bep/hugotestmods/mypartials v1.0.7/go.mod h1:QcrnlvaPq4q8ipJHVEOHaPbHkkusDpOOotAZheabfQ4=
 github.com/bep/hugotestmods/myv2 v1.0.0/go.mod h1:ermD/5I+aeZG7Fndd11OsQkqr3jhelVyF5H0m5c4ki0=
