@@ -30,12 +30,12 @@ icon = "doc-sync"
     target="data/datakey"
 [[module.imports]]
     path="github.com/bep/hugotestmods/mypartials"
-    disabled=false
+    disable=true
 [[module.imports]]
     path="github.com/spf13/hyde"
-    disabled=true
+    disable=false
 [[module.imports]]
     path="github.com/bep/hugo-fresh"
-    disabled=false   
+    disable=true   
 [[module.imports]]
     path="in-themesdir"
