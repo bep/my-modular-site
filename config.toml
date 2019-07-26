@@ -21,7 +21,7 @@ icon = "doc-sync"
     target="content"
 [[module.imports]]
     path="github.com/bep/hugotestmods/mymounts"
-    disabled=false
+    disable=false
 [[module.imports.mounts]]
     source="myassets/subfolder"
     target="assets/images"
