@@ -20,7 +20,7 @@ icon = "doc-sync"
 source="foo"
 target="static/foo"
 [[module.mounts]]
-source="foo"
+source="content"
 target="content"
 [[module.mounts]]
 source="foo"
@@ -40,9 +40,9 @@ target="static/foo"
     disable=false
 [[module.imports]]
     path="github.com/spf13/hyde"
-    disable=true
+    disable=false
 [[module.imports]]
     path="github.com/bep/hugo-fresh"
-    disable=false   
+    disable=true   
 [[module.imports]]
     path="in-themesdir"
