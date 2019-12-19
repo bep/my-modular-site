@@ -10,4 +10,3 @@ require (
 	github.com/spf13/hyde v1.0.1 // indirect
 )
 
-replace github.com/spf13/hyde => /Users/bep/dev/dump/hyde
