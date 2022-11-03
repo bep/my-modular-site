@@ -30,6 +30,9 @@ target="static/foo"
     path="github.com/bep/hugotestmods/mymounts"
     disabled=false
 [[module.imports.mounts]]
+    source="mycontent"
+    target="content/mine"
+[[module.imports.mounts]]
     source="myassets/subfolder"
     target="assets/images"
 [[module.imports.mounts]]
